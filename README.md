@@ -1,4 +1,5 @@
-## Hi there 👋
+How did you end up here?
+My apologies, I'm not very interesting. I'm currently attempting to develop new skills, and in so doing have ended up here.
 
 <!--
 **GraceHBDalton/GraceHBDalton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
